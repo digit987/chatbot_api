@@ -1,5 +1,5 @@
 # chatbot_api
-A generic Chatbot with a supporting API<br/>
+A generic Chatbot with a supporting API.<br/>
 chatbot.ipynb : Implements the model and prediction<br/>
 chatbot_model : Pickle File to store the model<br/>
 intents.json : Dataset<br/>
